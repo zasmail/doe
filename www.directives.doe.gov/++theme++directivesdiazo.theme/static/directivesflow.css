@@ -1,0 +1,177 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body {
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding: 0;
+	color: #000;
+}
+.directivesflow_container {
+	width: 940px;
+	background: #FFF;
+}
+.directivesflow_content {
+
+}
+#directivesflow_navbar {
+	background-image:url(images/background_nav.png);
+	height:66px;
+}
+#directivesflow_navbar ul {
+    list-style-type:none;
+	padding:0;
+}
+.directivesflow_navbar li {
+  display: block;
+  float: left;
+}
+.directivesflow_navbar li a {
+	float: left;
+	padding:10px 0;
+	text-decoration:none;
+	color:#FFF;
+	width:134px;
+	text-align:center;
+	padding-top:14px;
+}
+.directivesflow_navbar li a:hover {
+	text-decoration:none;
+	color:#FFF !important;
+}
+.directivesflow_navbar > .active > a,
+.directivesflow_navbar > .active > a:hover,
+.directivesflow_navbar > .active > a:focus {
+    position: relative;
+    background-image:url(images/active.png);
+    width: 134px;
+	height:43px;
+	color:#000;
+	box-shadow: 3px 1px 3px #000;
+}
+.directivesflow_navbar > .active > a:after,
+.directivesflow_navbar > .active > a:hover:after,
+.directivesflow_navbar > .active > a:focus:after {
+	 left: 134px;
+	 top:1px;
+	 content: " ";
+	 background-image:url(images/arrow_point.png);
+	 position: absolute;
+	 display:inline-block;
+	 width: 14px;
+	 height: 66px;
+	 }
+
+/* Scrollspy on fixed height div */
+.directivesflow_frame {
+  height: 500px;
+  overflow: auto;
+}
+
+/* Table Attributes */
+
+.directivesflow_frame table th{
+	background:#F1B959;
+	text-align:center;
+	padding:0 0 15px 0;
+}
+.directivesflow_frame table tr{
+	padding:8px 0;
+}
+
+.directivesflow_frame table li{
+	font-size:14px;
+	line-height:20px;
+}
+.directivesflow_frame table td {
+	display:inline-block;
+	vertical-align:middle;
+        padding: 10px 5px;
+}
+
+.directivesflow_frame table h4 {
+	background:none;
+	font-size:18px;
+	text-align:center;
+	padding:10px 0 5px 0;
+	margin:0;
+	border-bottom:0;
+}
+.directivesflow_frame th p {
+	background:#F1B959;
+	text-align:center;
+	font-size:12px;
+	margin:0;
+}
+.directivesflow_frame table tr td:first-child {
+    width: 95px;
+}
+.directivesflow_frame table tr td:nth-child(2) {
+    width: 800px;
+    display: inline-block;
+}
+.directivesflow_frame table tr:first-child {
+	background:#FFFFFF url('images/mainchild_arrow.png') no-repeat top left;
+}
+.directivesflow_frame table tr:nth-child(2) {
+	background:#F0F0F0 url('images/firstchild_arrow.png') no-repeat top left;
+}
+.directivesflow_frame table tr:nth-child(3) {
+	background:#E5E5E5 url('images/secondchild_arrow.png') no-repeat top left;
+}
+.directivesflow_frame table tr:nth-child(4) {
+	background:#DADADA url('images/thirdchild_arrow.png') no-repeat top left;
+}
+.directivesflow_frame table tr:nth-child(5) {
+	background:#CECECE url('images/fourthchild_arrow.png') no-repeat top left;
+}
+.directivesflow_frame table tr:nth-child(6) {
+	background:#C5C5C5 url('images/fifthchild_arrow.png') no-repeat top left;
+}
+.directivesflow_frame table tr:nth-child(7) {
+	background:#BBBBBB url('images/sixthchild_arrow.png') no-repeat top left;
+}
+
+
+.clearfix {
+  clear:both;
+}
+
+@media only screen and (max-height: 800px) {
+.directivesflow_frame {
+    height: 300px;
+    overflow: auto;
+}
+}
+
+.directivesflow_navbar8 li a {
+        float: left;
+        padding:10px 0;
+        text-decoration:none;
+        color:#FFF;
+        width:117px;
+        text-align:center;
+        padding-top:14px;
+}
+.directivesflow_navbar8 > .active > a,
+.directivesflow_navbar8 > .active > a:hover,
+.directivesflow_navbar8 > .active > a:focus {
+    position: relative;
+    background-image:url(images/active.png);
+    width: 134px;
+        height:43px;
+        color:#000;
+        box-shadow: 3px 1px 3px #000;
+}
+
+#directivesflow_navbar8 {
+        background-image:url(images/background_nav_8.png);
+        height:66px;
+        font-size:80%;
+}
+#directivesflow_navbar8 ul {
+    list-style-type:none;
+        padding:0;
+}
+

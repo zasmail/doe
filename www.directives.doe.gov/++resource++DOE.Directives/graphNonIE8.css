@@ -1,0 +1,89 @@
+text {
+  font-weight: 300;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+  font-size: 14px;
+}
+
+.node rect {
+  cursor: pointer;
+  stroke-width: 2px;
+  stroke: #333;
+}
+
+.node g {
+  cursor: pointer;
+}
+
+.edge rect {
+  fill: #fff;
+}
+
+.edge path {
+  fill: none;
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+textarea {
+  width: 800px;
+}
+
+label {
+  margin-top: 1em;
+  display: block;
+}
+
+.error {
+  color: red;
+}
+
+svg { overflow: hidden; }
+
+#graphview {
+        position: absolute;
+}
+#svgInstructions {
+        background:#000;
+        color:#FFF;
+        padding: 5px 10px;
+}
+#documentTitle {
+        padding-bottom: 10px;
+}
+
+#graphview {
+        left: -10000px;
+        background:#fff;
+        width:800px;
+        -moz-border-radius:8px;
+        -webkit-border-radius:8px;
+        border-radius:10px;
+        box-shadow: 0px 0px 15px #000;
+}
+
+#graphview .close {
+    position: absolute;
+    background-image:url(close_overlay.png);
+    cursor:pointer;
+    position:absolute; right:5px; top:5px;
+    cursor:pointer;
+    height:25px;
+    width:25px;
+}
+
+#documentTitle {
+    margin: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+#exposeMask {
+        background-color:#666 !important;
+        -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=90)" !important;
+        opacity: .9 !important;
+}

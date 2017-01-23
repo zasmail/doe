@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://www.directives.doe.gov/news/aggregator" xml:lang="en">
+  <link rel="self" href="https://www.directives.doe.gov/news/aggregator/atom.xml" type="application/atom+xml"/>
+  <title type="html">News</title>
+  <subtitle>Site News</subtitle>
+  <updated>2015-03-26T18:22:59-04:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://www.directives.doe.gov/news/aggregator/"/>
+  <id>urn:syndication:5f0fe5533b3b406994f023433242ff43</id>
+  <logo>https://www.directives.doe.gov/logo.png</logo>
+  <icon>https://www.directives.doe.gov/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  <author>
+    <name>Website Administrator</name>
+    <email>support@doxcelerate.com</email>
+  </author>
+
+  
+    <entry>
+      <title>New - DOE O 470.4B Chg 2 (MinChg), Safeguards and Security Program</title>
+      <link rel="alternate" type="text/html" href="https://www.directives.doe.gov/news/0470.4B-chg2-minchg-new"/>
+      
+      <id>urn:syndication:edfb400523fd444e9b0b50f9cd98b30e</id>
+      <summary>The order establishes responsibilities and program planning and management requirements for the Safeguards and Security Program. Supersedes DOE O 470.4B Chg 1.</summary>
+      
+
+      <author>
+        
+        <name>pgz</name>
+        
+      </author>
+
+      <published>2017-01-20T09:59:18-05:00</published>
+
+      <updated>2017-01-20T09:59:18-05:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>New - DOE P 485.1, Foreign Engagements with DOE National Laboratories</title>
+      <link rel="alternate" type="text/html" href="https://www.directives.doe.gov/news/0485.1-new"/>
+      
+      <id>urn:syndication:3c4e1f8d4ca74f6b9e80df63882eda7a</id>
+      <summary>The Department is committed to making DOE National Laboratories available to non-DOE entities, including foreign entities, as long as such work is consistent with or complementary to the missions of DOE and the laboratory to which the work is to be assigned, and does not impede the laboratory's ability to successfully accomplish its DOE missions.</summary>
+      
+
+      <author>
+        
+        <name>mudijo</name>
+        
+      </author>
+
+      <published>2017-01-19T15:04:37-05:00</published>
+
+      <updated>2017-01-19T15:04:37-05:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>New - DOE N 251.118, Cancellation of Directives</title>
+      <link rel="alternate" type="text/html" href="https://www.directives.doe.gov/news/0251.118-new"/>
+      
+      <id>urn:syndication:987d43370c244febadd6f2d7451d2e39</id>
+      <summary>Cancellation of DOE O 580.1A, Department of Energy Personal Property Management Program, dated 10-22-12.</summary>
+      
+
+      <author>
+        
+        <name>mudijo</name>
+        
+      </author>
+
+      <published>2017-01-19T14:05:48-05:00</published>
+
+      <updated>2017-01-19T14:05:48-05:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>New - DOE O 142.3A Chg 1 (MinChg), Unclassified Foreign Visits and Assignments Program</title>
+      <link rel="alternate" type="text/html" href="https://www.directives.doe.gov/news/0142.3a-chg1-mingchg-new"/>
+      
+      <id>urn:syndication:3bf3179154a4453488be860e7d02c848</id>
+      <summary>The order defines a program for unclassified foreign national access to DOE sites, information, technologies, and equipment. Supersedes DOE O 142.3A</summary>
+      
+
+      <author>
+        
+        <name>mudijo</name>
+        
+      </author>
+
+      <published>2017-01-19T14:04:28-05:00</published>
+
+      <updated>2017-01-19T14:04:28-05:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>New - DOE O 541.1C, Appointment of Contracting Officers and Contracting Officer Representatives</title>
+      <link rel="alternate" type="text/html" href="https://www.directives.doe.gov/news/0541.1c-new"/>
+      
+      <id>urn:syndication:a4fd560d974b4446afaeeec1856ce5fc</id>
+      <summary>To establish procedures governing the selection, appointment, and termination of all components of Department of Energy (DOE), including National Nuclear Security Administration contracting officers (COs) by ensuring federal staff are developed appropriately, in accordance with the Office of Federal Procurement Policy (OFPP) memorandum on May 7, 2014, entitled “Revisions to the Federal Acquisition Certification in Contracting (FAC-C).” Supersedes DOE O 541.1B, dated 4-21-2004.</summary>
+      
+
+      <author>
+        
+        <name>mudijo</name>
+        
+      </author>
+
+      <published>2017-01-19T11:09:54-05:00</published>
+
+      <updated>2017-01-19T11:09:54-05:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>New - DOE O 450.2 Chg 1 (MinChg), Integrated Safety Management</title>
+      <link rel="alternate" type="text/html" href="https://www.directives.doe.gov/news/0450.2-Chg1-MinChg-New"/>
+      
+      <id>urn:syndication:0a161c47dafc41498bcbe07133b22de0</id>
+      <summary>To ensure that the Department of Energy (DOE), including the National Nuclear Security Administration (NNSA), systematically integrates safety into management and work practices at all levels, so that missions are accomplished efficiently while protecting the workers, the public, and the environment. Supersedes DOE O 450.2, dated 4-24-2011.</summary>
+      
+
+      <author>
+        
+        <name>mudijo</name>
+        
+      </author>
+
+      <published>2017-01-19T10:58:02-05:00</published>
+
+      <updated>2017-01-19T10:58:02-05:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>New - DOE O 426.1A, Federal Technical Capability Program</title>
+      <link rel="alternate" type="text/html" href="https://www.directives.doe.gov/news/0426.1a-new"/>
+      
+      <id>urn:syndication:4f424b632400413e9193bec3c257de70</id>
+      <summary>To define requirements and responsibilities for meeting the Department of Energy (DOE) commitment to recruiting, deploying, developing, and retaining a technically competent workforce that will accomplish DOE missions in a safe and efficient manner through the Federal Technical Capability Program (FTCP). Supersedes DOE O 426.1.</summary>
+      
+
+      <author>
+        
+        <name>mudijo</name>
+        
+      </author>
+
+      <published>2017-01-19T09:25:00-05:00</published>
+
+      <updated>2017-01-19T11:19:16-05:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>New - DOE O 415.1 Chg 2 (MinChg), Information Technology Project Management</title>
+      <link rel="alternate" type="text/html" href="https://www.directives.doe.gov/news/0415.1-Chg2-MinChg-new"/>
+      
+      <id>urn:syndication:6eea20a5ba924c12bd17e2076b080284</id>
+      <summary>The Order provides program and project management direction for the acquisition and management of IT projects, investments, and initiatives. These changes implement The Federal Information Technology Acquisition Reform Act (FITARA) Supersedes DOE O 415.1 Admin Chg 1.
+
+</summary>
+      
+
+      <author>
+        
+        <name>pgz</name>
+        
+      </author>
+
+      <published>2017-01-18T16:30:49-05:00</published>
+
+      <updated>2017-01-18T16:30:49-05:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>New - DOE O 200.1A Chg 1 (MinChg), Information Technology Management</title>
+      <link rel="alternate" type="text/html" href="https://www.directives.doe.gov/news/0200.1a-chg1-minchg"/>
+      
+      <id>urn:syndication:bc2714ea3556489c9c738f00a5de6ad9</id>
+      <summary>The Order identifies the objectives, components, and responsibilities for implementing processes to ensure the effective management of information and information systems within the Department. Supersedes DOE O 200.1A.
+
+</summary>
+      
+
+      <author>
+        
+        <name>pgz</name>
+        
+      </author>
+
+      <published>2017-01-18T16:30:00-05:00</published>
+
+      <updated>2017-01-19T11:24:10-05:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>DOE O 251.1D, Departmental Directives Program</title>
+      <link rel="alternate" type="text/html" href="https://www.directives.doe.gov/news/0251.001D-new"/>
+      
+      <id>urn:syndication:03153067809c4bfda08d5b7d2bb09b27</id>
+      <summary>The Order establishes directives as the primary means to set, communicate, and institutionalize policies, requirements, responsibilities, and procedures for Departmental elements and contractors. Supersedes DOE O 251.1C.
+
+</summary>
+      
+
+      <author>
+        
+        <name>pgz</name>
+        
+      </author>
+
+      <published>2017-01-18T09:40:22-05:00</published>
+
+      <updated>2017-01-18T09:40:22-05:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>DOE O 232.2A, Occurrence Reporting and Processing of Operations Information</title>
+      <link rel="alternate" type="text/html" href="https://www.directives.doe.gov/news/0232.2a-new"/>
+      
+      <id>urn:syndication:0d3eee151d374e7f9a8e9d1457028bd2</id>
+      <summary>The order promotes organizational learning consistent with DOE’s Integrated Safety Management System goal of enhancing mission safety, and sharing effective practices to support continuous improvement and adaptation to change. Supersedes DOE O 232.2 Admin Chg 1.
+
+</summary>
+      
+
+      <author>
+        
+        <name>pgz</name>
+        
+      </author>
+
+      <published>2017-01-18T09:39:49-05:00</published>
+
+      <updated>2017-01-18T09:39:49-05:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>New - DOE P 411.2A, DOE Scientific Integrity Policy</title>
+      <link rel="alternate" type="text/html" href="https://www.directives.doe.gov/news/p411.2a-new"/>
+      
+      <id>urn:syndication:09bcca055e514aa8aa1b40272d6fa897</id>
+      <summary>The policy is intended to enhance our culture by establishing a unified framework for scientific integrity. Supersedes DOE P 411.2.</summary>
+      
+
+      <author>
+        
+        <name>pgz</name>
+        
+      </author>
+
+      <published>2017-01-11T10:28:37-05:00</published>
+
+      <updated>2017-01-11T10:28:37-05:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>New - DOE O 411.2, Scientific Integrity</title>
+      <link rel="alternate" type="text/html" href="https://www.directives.doe.gov/news/0411.2-new"/>
+      
+      <id>urn:syndication:3a6164b2d9a24f5daf7f769f4e288291</id>
+      <summary>This Order implements DOE P 411.2A to ensure a culture of scientific integrity and facilitate free flow of scientific and technical information. Does not cancel/supersede other directives</summary>
+      
+
+      <author>
+        
+        <name>pgz</name>
+        
+      </author>
+
+      <published>2017-01-11T10:26:59-05:00</published>
+
+      <updated>2017-01-11T10:26:59-05:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>New - DOE O 483.1B, DOE Cooperative Research and Development Agreements</title>
+      <link rel="alternate" type="text/html" href="https://www.directives.doe.gov/news/0483.1b-new"/>
+      
+      <id>urn:syndication:3145a2246f684fc89d9c17b6336c0790</id>
+      <summary>The order establishes policy, requirements, and responsibilities for the oversight, management, and administration of Cooperative Research and Development Agreement (CRADA) activities at DOE facilities.</summary>
+      
+
+      <author>
+        
+        <name>mudijo</name>
+        
+      </author>
+
+      <published>2017-01-05T10:04:38-05:00</published>
+
+      <updated>2017-01-05T10:04:38-05:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>New - DOE O 326.1A, Confidential Financial Disclosure Reports (OGE 450)</title>
+      <link rel="alternate" type="text/html" href="https://www.directives.doe.gov/news/0326.01A-new"/>
+      
+      <id>urn:syndication:a932a07376f1432aaee7c2e0a54ac294</id>
+      <summary>The directive establishes requirements and responsibilities for Departmental elements and employees regarding filing Confidential Financial Disclosure Reports (OGE Form 450) in accordance with the Ethics in Government Act of 1978, as amended. Supersedes DOE O 326.1.
+
+</summary>
+      
+
+      <author>
+        
+        <name>pgz</name>
+        
+      </author>
+
+      <published>2016-12-29T11:43:46-05:00</published>
+
+      <updated>2016-12-29T11:43:46-05:00</updated>
+
+
+    </entry>
+
+  
+
+</feed>

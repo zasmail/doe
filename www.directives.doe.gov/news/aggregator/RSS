@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://www.directives.doe.gov/news/aggregator/RSS">
+  <title>DOE Directives, Delegations, and Requirements</title>
+  <link>https://www.directives.doe.gov</link>
+  <description>Directives are the Department of Energy's primary means of establishing policies, requirements, responsibilities, and procedures for Departmental elements and contractors.</description>
+  <image rdf:resource="https://www.directives.doe.gov/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/0470.4B-chg2-minchg-new"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/0485.1-new"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/0251.118-new"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/0142.3a-chg1-mingchg-new"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/0541.1c-new"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/0450.2-Chg1-MinChg-New"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/0426.1a-new"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/0415.1-Chg2-MinChg-new"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/0200.1a-chg1-minchg"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/0251.001D-new"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/0232.2a-new"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/p411.2a-new"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/0411.2-new"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/0483.1b-new"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/0326.01A-new"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/0413.3b-new"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/o460.1d-new"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/331.1d-new"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/0481.1d-new"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/0470.3c-new"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/new-doe-p434.1b"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/new-doe-p-112.1"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/new-doe-o-442.2"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/news-draft-doe-o-426.2a"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/new-doe-0-552.1a-chg2-minrev"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/draft-doe-o-470.4b-chg2"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/new-doe-o-221.1b"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/new-o474.2-chg4-pgchg"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/0430.1C-new"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/0151.1d-new"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/0470.4B-chg2-minchg-new">
+    <title>New - DOE O 470.4B Chg 2 (MinChg), Safeguards and Security Program</title>
+    <link>https://www.directives.doe.gov/news/0470.4B-chg2-minchg-new</link>
+    <description>The order establishes responsibilities and program planning and management requirements for the Safeguards and Security Program. Supersedes DOE O 470.4B Chg 1.</description>
+    <dc:date>2017-01-20T14:59:18Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/0485.1-new">
+    <title>New - DOE P 485.1, Foreign Engagements with DOE National Laboratories</title>
+    <link>https://www.directives.doe.gov/news/0485.1-new</link>
+    <description>The Department is committed to making DOE National Laboratories available to non-DOE entities, including foreign entities, as long as such work is consistent with or complementary to the missions of DOE and the laboratory to which the work is to be assigned, and does not impede the laboratory's ability to successfully accomplish its DOE missions.</description>
+    <dc:date>2017-01-19T20:04:37Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/0251.118-new">
+    <title>New - DOE N 251.118, Cancellation of Directives</title>
+    <link>https://www.directives.doe.gov/news/0251.118-new</link>
+    <description>Cancellation of DOE O 580.1A, Department of Energy Personal Property Management Program, dated 10-22-12.</description>
+    <dc:date>2017-01-19T19:05:48Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/0142.3a-chg1-mingchg-new">
+    <title>New - DOE O 142.3A Chg 1 (MinChg), Unclassified Foreign Visits and Assignments Program</title>
+    <link>https://www.directives.doe.gov/news/0142.3a-chg1-mingchg-new</link>
+    <description>The order defines a program for unclassified foreign national access to DOE sites, information, technologies, and equipment. Supersedes DOE O 142.3A</description>
+    <dc:date>2017-01-19T19:04:28Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/0541.1c-new">
+    <title>New - DOE O 541.1C, Appointment of Contracting Officers and Contracting Officer Representatives</title>
+    <link>https://www.directives.doe.gov/news/0541.1c-new</link>
+    <description>To establish procedures governing the selection, appointment, and termination of all components of Department of Energy (DOE), including National Nuclear Security Administration contracting officers (COs) by ensuring federal staff are developed appropriately, in accordance with the Office of Federal Procurement Policy (OFPP) memorandum on May 7, 2014, entitled “Revisions to the Federal Acquisition Certification in Contracting (FAC-C).” Supersedes DOE O 541.1B, dated 4-21-2004.</description>
+    <dc:date>2017-01-19T16:09:54Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/0450.2-Chg1-MinChg-New">
+    <title>New - DOE O 450.2 Chg 1 (MinChg), Integrated Safety Management</title>
+    <link>https://www.directives.doe.gov/news/0450.2-Chg1-MinChg-New</link>
+    <description>To ensure that the Department of Energy (DOE), including the National Nuclear Security Administration (NNSA), systematically integrates safety into management and work practices at all levels, so that missions are accomplished efficiently while protecting the workers, the public, and the environment. Supersedes DOE O 450.2, dated 4-24-2011.</description>
+    <dc:date>2017-01-19T15:58:02Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/0426.1a-new">
+    <title>New - DOE O 426.1A, Federal Technical Capability Program</title>
+    <link>https://www.directives.doe.gov/news/0426.1a-new</link>
+    <description>To define requirements and responsibilities for meeting the Department of Energy (DOE) commitment to recruiting, deploying, developing, and retaining a technically competent workforce that will accomplish DOE missions in a safe and efficient manner through the Federal Technical Capability Program (FTCP). Supersedes DOE O 426.1.</description>
+    <dc:date>2017-01-19T16:19:16Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/0415.1-Chg2-MinChg-new">
+    <title>New - DOE O 415.1 Chg 2 (MinChg), Information Technology Project Management</title>
+    <link>https://www.directives.doe.gov/news/0415.1-Chg2-MinChg-new</link>
+    <description>The Order provides program and project management direction for the acquisition and management of IT projects, investments, and initiatives. These changes implement The Federal Information Technology Acquisition Reform Act (FITARA) Supersedes DOE O 415.1 Admin Chg 1.
+
+</description>
+    <dc:date>2017-01-18T21:30:49Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/0200.1a-chg1-minchg">
+    <title>New - DOE O 200.1A Chg 1 (MinChg), Information Technology Management</title>
+    <link>https://www.directives.doe.gov/news/0200.1a-chg1-minchg</link>
+    <description>The Order identifies the objectives, components, and responsibilities for implementing processes to ensure the effective management of information and information systems within the Department. Supersedes DOE O 200.1A.
+
+</description>
+    <dc:date>2017-01-19T16:24:10Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/0251.001D-new">
+    <title>DOE O 251.1D, Departmental Directives Program</title>
+    <link>https://www.directives.doe.gov/news/0251.001D-new</link>
+    <description>The Order establishes directives as the primary means to set, communicate, and institutionalize policies, requirements, responsibilities, and procedures for Departmental elements and contractors. Supersedes DOE O 251.1C.
+
+</description>
+    <dc:date>2017-01-18T14:40:22Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/0232.2a-new">
+    <title>DOE O 232.2A, Occurrence Reporting and Processing of Operations Information</title>
+    <link>https://www.directives.doe.gov/news/0232.2a-new</link>
+    <description>The order promotes organizational learning consistent with DOE’s Integrated Safety Management System goal of enhancing mission safety, and sharing effective practices to support continuous improvement and adaptation to change. Supersedes DOE O 232.2 Admin Chg 1.
+
+</description>
+    <dc:date>2017-01-18T14:39:49Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/p411.2a-new">
+    <title>New - DOE P 411.2A, DOE Scientific Integrity Policy</title>
+    <link>https://www.directives.doe.gov/news/p411.2a-new</link>
+    <description>The policy is intended to enhance our culture by establishing a unified framework for scientific integrity. Supersedes DOE P 411.2.</description>
+    <dc:date>2017-01-11T15:28:37Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/0411.2-new">
+    <title>New - DOE O 411.2, Scientific Integrity</title>
+    <link>https://www.directives.doe.gov/news/0411.2-new</link>
+    <description>This Order implements DOE P 411.2A to ensure a culture of scientific integrity and facilitate free flow of scientific and technical information. Does not cancel/supersede other directives</description>
+    <dc:date>2017-01-11T15:26:59Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/0483.1b-new">
+    <title>New - DOE O 483.1B, DOE Cooperative Research and Development Agreements</title>
+    <link>https://www.directives.doe.gov/news/0483.1b-new</link>
+    <description>The order establishes policy, requirements, and responsibilities for the oversight, management, and administration of Cooperative Research and Development Agreement (CRADA) activities at DOE facilities.</description>
+    <dc:date>2017-01-05T15:04:38Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/0326.01A-new">
+    <title>New - DOE O 326.1A, Confidential Financial Disclosure Reports (OGE 450)</title>
+    <link>https://www.directives.doe.gov/news/0326.01A-new</link>
+    <description>The directive establishes requirements and responsibilities for Departmental elements and employees regarding filing Confidential Financial Disclosure Reports (OGE Form 450) in accordance with the Ethics in Government Act of 1978, as amended. Supersedes DOE O 326.1.
+
+</description>
+    <dc:date>2016-12-29T16:43:46Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/0413.3b-new">
+    <title>New -DOE O 413.3B Chg 3 (PgChg), Program and Project Management for the Acquisition of Capital Assets</title>
+    <link>https://www.directives.doe.gov/news/0413.3b-new</link>
+    <description>The Order provides DOE and NNSA with program and project management direction for the acquisition of capital assets with the goal of delivering projects within the original performance baseline (PB), cost and schedule, and fully capable of meeting mission performance, safeguards and security, and environmental, safety, and health requirements unless impacted by a directed change and supports implementation of OMB Circulars A-11, A-123 and A-131. Supersedes DOE O 413.3B Chg 2 (PgChg)</description>
+    <dc:date>2016-12-29T15:29:28Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/o460.1d-new">
+    <title>NEW - DOE O 460.1D, Hazardous Materials Packaging and Transportation Safety</title>
+    <link>https://www.directives.doe.gov/news/o460.1d-new</link>
+    <description>This Order of the Department of Energy (DOE), including the National Nuclear Security Administration (NNSA), establishes safety requirements for the proper packaging and transportation of offsite shipments and onsite transfers of hazardous materials, including radioactive materials.</description>
+    <dc:date>2016-12-21T19:17:46Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/331.1d-new">
+    <title>New - DOE O 331.1D, Employee Performance Management and Recognition Program</title>
+    <link>https://www.directives.doe.gov/news/331.1d-new</link>
+    <description>To establish requirements and responsibilities for the administration of the performance management and recognition program for non-Senior Executive Service (SES) and non-Senior Leader, Professional or Technical (SL/SP/ST) employees. To improve individual and organizational performance, enhance program effectiveness, and ensure accountability by focusing on results, service quality and customer satisfaction, by aligning critical elements with organizational goals and the Department of Energy’s (DOE) Strategic Plan.</description>
+    <dc:date>2016-12-19T22:37:49Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/0481.1d-new">
+    <title>New - DOE O 481.1D, Strategic Partnership Projects [Formerly Known as Work for Others (Non-Department of Energy Funded Work)]</title>
+    <link>https://www.directives.doe.gov/news/0481.1d-new</link>
+    <description>Strategic Partnership Projects is work performed for non-DOE entities by DOE/(NNSA personnel and/or their respective contractor personnel or the use of DOE/NNSA facilities for work that is not directly funded by DOE/NNSA appropriations. Supersedes DOE O 481.1C Chg2 (Admin Chg).
+
+</description>
+    <dc:date>2016-12-06T13:58:03Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/0470.3c-new">
+    <title>New - DOE O 470.3C, Design Basis Threat (DBT) Order</title>
+    <link>https://www.directives.doe.gov/news/0470.3c-new</link>
+    <description>This Order is classified (Secret // RD // NOFORN) and will not be available on the Directives portal. This Order cancels and supersedes DOE O 470.3B, Graded Security Protection Policy (U), dated 8-12-08. For distribution, contact Mark Hojnacke, 301-903-3311, mark.hojnacke@hq.doe.gov.</description>
+    <dc:date>2016-11-29T17:52:43Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/new-doe-p434.1b">
+    <title>New - DOE P 434.1B,  Conduct and Approval of Select Agent and Toxin Work at Department of Energy Sites</title>
+    <link>https://www.directives.doe.gov/news/new-doe-p434.1b</link>
+    <description>The purpose of this policy is to establish the Department’s expectations for the establishment and operation of DOE research laboratories that utilize select agents and toxins (as regulated by the United States Department of Health and Human Services and the United States Department of Agriculture), hereinafter called LABS; and to assess future policy needs through the DOE Biosurety Executive Working Group for the operation, coordination, and oversight of these LABS.
+
+</description>
+    <dc:date>2016-11-28T22:01:49Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/new-doe-p-112.1">
+    <title>New - DOE P 112.1, DOE Roles and Responsibilities - National Laboratories</title>
+    <link>https://www.directives.doe.gov/news/new-doe-p-112.1</link>
+    <description>This Policy provides clarification regarding roles and responsibilities at the Department of Energy (DOE), particularly as they relate to the DOE National Laboratories.</description>
+    <dc:date>2016-11-28T12:26:52Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/new-doe-o-442.2">
+    <title>New - DOE O 442.2 Chg 1 (PgChg), Differing Professional Opinions for Technical Issues Involving Environment, Safety, and Health Technical Concerns</title>
+    <link>https://www.directives.doe.gov/news/new-doe-o-442.2</link>
+    <description>This Order establishes the Department of Energy (DOE) Differing Professional Opinion (DPO) process for employees to raise technical concerns related to environment, safety, and health (ES&amp;H) which cannot be resolved using routine processes. Chg 1 supersedes DOE O 442.2 dated 6-29-2011.</description>
+    <dc:date>2016-11-25T20:11:36Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/news-draft-doe-o-426.2a">
+    <title>Draft - DOE O 426.2A, Personnel Selection, Training, Qualifications, Certification Requirements for DOE Factilities</title>
+    <link>https://www.directives.doe.gov/news/news-draft-doe-o-426.2a</link>
+    <description>This Order establishes selection, training, qualification, and certification requirements for contractor personnel who can impact the safety basis through their involvement in the operation, maintenance, and technical support of Hazard Category 1, 2, and 3 nuclear facilities.</description>
+    <dc:date>2016-11-23T19:16:57Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/new-doe-0-552.1a-chg2-minrev">
+    <title>New - DOE O 552.1A Chg 2 (Minor Revision), Travel and Policy Procedures</title>
+    <link>https://www.directives.doe.gov/news/new-doe-0-552.1a-chg2-minrev</link>
+    <description>The Order supplements the Federal Travel Regulation as principal source of policy for Federal employee travel and relocation and establishes DOE M 552.1-1A, U.S. Department of Energy Travel Manual, dated 2-17-06, as the repository for supplementary travel requirements information. Supersedes DOE O 552.1A Chg 1 (Admin Chg), dated 10-1-08</description>
+    <dc:date>2016-10-28T19:54:26Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/draft-doe-o-470.4b-chg2">
+    <title>Draft - DOE O 470.4B Chg 2 (PgChg), Safeguards and Security Program</title>
+    <link>https://www.directives.doe.gov/news/draft-doe-o-470.4b-chg2</link>
+    <description>Only redlined text inserted for the Page Change is available for comment. To review the changes in context, see the PDF Document for Review (upper right). This proposed Page Change institutionalizes the direction found in the S1 Secretarial Memorandum, Strategy of Reforms to Enhance Security, Independent Assessments, Safety and Health Functions, dated February 12, 2014.</description>
+    <dc:date>2016-09-30T17:11:15Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/new-doe-o-221.1b">
+    <title>New - DOE O 221.1B, Reporting Fraud, Waste and Abuse to the Office of Inspector General</title>
+    <link>https://www.directives.doe.gov/news/new-doe-o-221.1b</link>
+    <description>To establish requirements and responsibilities for reporting fraud, waste, abuse, misuse, corruption, criminal acts, and mismanagement to the Department of Energy (DOE), Office of Inspector General (OIG).</description>
+    <dc:date>2016-09-30T12:17:53Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/new-o474.2-chg4-pgchg">
+    <title>New - DOE O 474.2 Chg 4 (PgChg), Nuclear Material Control and Accountability</title>
+    <link>https://www.directives.doe.gov/news/new-o474.2-chg4-pgchg</link>
+    <description>The Order establishes performance objectives, metrics, and requirements for developing, implementing, and maintaining a nuclear material control and accountability (MC&amp;A) program within the U.S. Department of Energy (DOE), including the National Nuclear Security Administration (NNSA), and for DOE owned materials at other facilities that are exempt from licensing by the Nuclear Regulatory Commission (NRC). Chg 4 (PgChg) supersedes AdminChg 3, dated 5-15-15.</description>
+    <dc:date>2016-09-15T20:20:25Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/0430.1C-new">
+    <title>New - DOE O 430.1C, Real Property Asset Management</title>
+    <link>https://www.directives.doe.gov/news/0430.1C-new</link>
+    <description>The directive establishes an integrated corporate-level, performance based approach to the life-cycle management of our real property assets. It links real property asset planning, programming, budgeting and evaluation to the Department's multi-faceted missions. Successful implementation of this order will enable the Department to carry out stewardship responsibilities, and will ensure that facilities and infrastructure are properly sized and in a condition to meet our mission requirements today and in the future. Supersedes DOE O 430.1C Chg 2.
+
+</description>
+    <dc:date>2016-08-23T18:37:27Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/0151.1d-new">
+    <title>New - DOE O 151.1D, Comprehensive Emergency Management System</title>
+    <link>https://www.directives.doe.gov/news/0151.1d-new</link>
+    <description>The Order establishes policy and assigns roles and responsibilities for the Department of Energy (DOE) Emergency Management System.
+</description>
+    <dc:date>2016-08-12T18:59:02Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

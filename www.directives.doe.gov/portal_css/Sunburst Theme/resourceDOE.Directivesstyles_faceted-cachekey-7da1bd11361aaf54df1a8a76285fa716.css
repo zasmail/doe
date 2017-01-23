@@ -1,0 +1,129 @@
+
+/* - ++resource++DOE.Directives/styles_faceted.css - */
+@media screen {
+/* https://www.directives.doe.gov/portal_css/++resource++DOE.Directives/styles_faceted.css?original=1 */
+@charset "UTF-8";
+/* */
+#left-area {
+width:235px;
+}
+#faceted-form .faceted-widget {
+border-radius: 3px;
+background-color: #dddddd;
+}
+#center-content-area {
+margin-left:255px;
+}
+#faceted-form .widget-fieldset legend {
+color: rgb(255, 255, 255);
+font-size: 14px;
+line-height: 1.6;
+font-weight: normal;
+text-shadow: 1px 1px 1px rgb(85, 85, 85);
+padding: 5px 10px;
+}
+#faceted-form fieldset {
+border:none;
+}
+.widget-fieldset legend {
+background-color: #03324c;
+}
+.faceted-checkbox-criterion {
+display:inline-block;
+}
+.faceted-criteria a {
+color: #2383bb !important;
+text-decoration: none !important;
+border: medium none !important;
+}
+input {
+visibility: visible;
+border: 1px solid rgb(204, 204, 204);
+color: rgb(51, 51, 51);
+vertical-align: middle;
+}
+.faceted-widget .widget-fieldset form input[type="text"] {
+font-size: 12px;
+height: 22px;
+min-width: 82%;
+padding: 5px;
+transition-delay: 0s;
+transition-duration: 0.218s;
+transition-property: box-shadow;
+transition-timing-function: ease;
+}
+.faceted-textwidget-place-all{
+clear: right;
+float: left;
+margin-right: 20px;
+display: inline-block;
+}
+label {
+padding-left: 5px;
+}
+#portal-columns input[type="submit"], .standardButton, .qq-upload-button, .searchButton, input.plonebutton, input.context, input.destructive, input.standalone {
+background: -moz-linear-gradient(center top , rgb(255, 234, 118) 5%, rgb(240, 174, 75) 100%) repeat scroll 0% 0% transparent;
+background-color: #ffea76;
+border-radius: 6px;
+border: 1px solid rgb(181, 123, 43);
+color: #000 ! important;
+display: inline-block;
+font: bold 100% Verdana,Arial,sans-serif;
+padding: 7px 11px;
+position: relative;
+transition: box-shadow 0.218s ease 0s;
+margin-left:15px
+}
+#portal-columns input[type="submit"],.searchButton:hover, input.destructive:hover {
+background: -moz-linear-gradient(center top , #F0AE4B 5%, #FFEA76 100%);
+background-color: #f2b65b;
+}
+.listingBar {
+background-color: #fff;
+padding: 0 1em;
+text-align: center;
+text-transform: lowercase;
+vertical-align: top;
+margin: 1em 0px;
+font-size: 100% !important;
+clear: both;
+}
+div.listingBar a:hover {
+background:#DDDDDD;
+}
+#search-results {
+padding: 0 !important; /* */
+}
+table.listing th {
+padding: .5em;
+}
+
+}
+
+
+/* - ++resource++ContentWellPortlets.styles/ContentWellPortlets.css - */
+@media all {
+/* https://www.directives.doe.gov/portal_css/++resource++ContentWellPortlets.styles/ContentWellPortlets.css?original=1 */
+.managePortletsAboveLink,
+.managePortletsBelowLink,
+.manageFooterPortletsLink,
+.manageInHeaderPortletsLink,
+.managePortletsBelowTitleLink { text-align: center; margin: 0 auto 1em; clear:both;}
+.portlet-manager-row .porlet-well_manager { width: 30%; float:left; margin:1%; }
+.portlet-manager-row { width:100%; float:left; }
+/* */
+div.width-1\3a 5 { width:    17.75%; } /* */
+div.width-2\3a 5 { width:    37.75%; } /* */
+div.width-3\3a 5 { width:    57.75%; } /* */
+div.width-4\3a 5 { width:    77.75%; } /* */
+div.position-1\3a 5 {margin-left:    -78.875%;} /* */
+div.position-2\3a 5 {margin-left:    -58.875%;} /* */
+div.position-3\3a 5 {margin-left:    -38.875%;} /* */
+div.position-4\3a 5 {margin-left:    -18.875%;} /* */
+div.width-1\3a 6 { width:    14.416%; } /* */
+div.width-5\3a 6 { width:    81.083%; } /* */
+div.position-1\3a 6 {margin-left:    -82.208%;} /* */
+div.position-5\3a 6 {margin-left:    -15.542%;} /* */
+
+}
+

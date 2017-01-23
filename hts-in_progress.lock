@@ -1,0 +1,7 @@
+Mirror in progress since Mon, 23 Jan 2017 16:26:01 .. please wait!
+winhttrack https://www.energy.gov/technologytransitions/office-technology-transitions -O "/Users/zo/websites/doe" -Y -%v 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=20646
+UID=501
+GID=501
+START=1485185161

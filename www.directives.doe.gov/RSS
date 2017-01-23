@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://www.directives.doe.gov/RSS">
+  <title>DOE Directives, Delegations, and Requirements</title>
+  <link>https://www.directives.doe.gov</link>
+  <description>Directives are the Department of Energy's primary means of establishing policies, requirements, responsibilities, and procedures for Departmental elements and contractors.</description>
+  <image rdf:resource="https://www.directives.doe.gov/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/0470.4B-chg2-minchg-new"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/directives-documents/400-series/0470.4-BOrder-B-Chg2-MinChg"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/0485.1-new"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/directives-documents/400-series/0485-1-APolicy"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/0251.118-new"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/0142.3a-chg1-mingchg-new"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/directives-documents/200-series/0251.118-CNotice"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/directives-documents/100-series/0142-3-border-a-chg1-minchg"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/0541.1c-new"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/directives-documents/500-series/0541-1-border-c"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/0450.2-Chg1-MinChg-New"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/directives-documents/400-series/0450-2-border-chg1-minchg"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/news/0426.1a-new"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/directives-documents/400-series/0426-1-border-a"/>
+      
+      
+        <rdf:li rdf:resource="https://www.directives.doe.gov/directives-documents/400-series/0415.1-BOrder-chg2-minchg"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/0470.4B-chg2-minchg-new">
+    <title>New - DOE O 470.4B Chg 2 (MinChg), Safeguards and Security Program</title>
+    <link>https://www.directives.doe.gov/news/0470.4B-chg2-minchg-new</link>
+    <description>The order establishes responsibilities and program planning and management requirements for the Safeguards and Security Program. Supersedes DOE O 470.4B Chg 1.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2017-01-20T14:59:18Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/directives-documents/400-series/0470.4-BOrder-B-Chg2-MinChg">
+    <title>Safeguards and Security Program</title>
+    <link>https://www.directives.doe.gov/directives-documents/400-series/0470.4-BOrder-B-Chg2-MinChg</link>
+    <description>The order establishes responsibilities and program planning and management requirements for the Safeguards and Security Program. Supersedes DOE O 470.4B Chg 1.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Minor Change</dc:subject>
+    
+    
+      <dc:subject>Safeguards and Security</dc:subject>
+    
+    
+      <dc:subject>Emergency Management</dc:subject>
+    
+    
+      <dc:subject>Safety</dc:subject>
+    
+    
+      <dc:subject>Safety and Security</dc:subject>
+    
+    
+      <dc:subject>Security</dc:subject>
+    
+    <dc:date>2017-01-20T14:58:00Z</dc:date>
+    <dc:type>DOE.Directives.directive</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/0485.1-new">
+    <title>New - DOE P 485.1, Foreign Engagements with DOE National Laboratories</title>
+    <link>https://www.directives.doe.gov/news/0485.1-new</link>
+    <description>The Department is committed to making DOE National Laboratories available to non-DOE entities, including foreign entities, as long as such work is consistent with or complementary to the missions of DOE and the laboratory to which the work is to be assigned, and does not impede the laboratory's ability to successfully accomplish its DOE missions.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2017-01-19T20:04:37Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/directives-documents/400-series/0485-1-APolicy">
+    <title>Foreign Engagements with DOE National Laboratories</title>
+    <link>https://www.directives.doe.gov/directives-documents/400-series/0485-1-APolicy</link>
+    <description>The Department is committed to making DOE National Laboratories available to non-DOE entities, including foreign entities, as long as such work is consistent with or complementary to the missions of DOE and the laboratory to which the work is to be assigned, and does not impede the laboratory's ability to successfully accomplish its DOE missions.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Foreign Engagements</dc:subject>
+    
+    
+      <dc:subject>Foreign Entities</dc:subject>
+    
+    
+      <dc:subject>Partnerships</dc:subject>
+    
+    <dc:date>2017-01-19T19:59:00Z</dc:date>
+    <dc:type>DOE.Directives.directive</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/0251.118-new">
+    <title>New - DOE N 251.118, Cancellation of Directives</title>
+    <link>https://www.directives.doe.gov/news/0251.118-new</link>
+    <description>Cancellation of DOE O 580.1A, Department of Energy Personal Property Management Program, dated 10-22-12.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2017-01-19T19:05:48Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/0142.3a-chg1-mingchg-new">
+    <title>New - DOE O 142.3A Chg 1 (MinChg), Unclassified Foreign Visits and Assignments Program</title>
+    <link>https://www.directives.doe.gov/news/0142.3a-chg1-mingchg-new</link>
+    <description>The order defines a program for unclassified foreign national access to DOE sites, information, technologies, and equipment. Supersedes DOE O 142.3A</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2017-01-19T19:04:28Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/directives-documents/200-series/0251.118-CNotice">
+    <title>Cancellation of Directives</title>
+    <link>https://www.directives.doe.gov/directives-documents/200-series/0251.118-CNotice</link>
+    <description>Cancellation of DOE O 580.1A, Department of Energy Personal Property Management Program, dated 10-22-12.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2017-01-19T18:59:00Z</dc:date>
+    <dc:type>DOE.Directives.directive</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/directives-documents/100-series/0142-3-border-a-chg1-minchg">
+    <title>Unclassified Foreign Visits and Assignments Program</title>
+    <link>https://www.directives.doe.gov/directives-documents/100-series/0142-3-border-a-chg1-minchg</link>
+    <description>The order defines a program for unclassified foreign national access to DOE sites, information, technologies, and equipment. Supersedes DOE O 142.3A</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Foreign National Visits</dc:subject>
+    
+    
+      <dc:subject>International Relations</dc:subject>
+    
+    
+      <dc:subject>Security</dc:subject>
+    
+    <dc:date>2017-01-19T18:47:21Z</dc:date>
+    <dc:type>DOE.Directives.directive</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/0541.1c-new">
+    <title>New - DOE O 541.1C, Appointment of Contracting Officers and Contracting Officer Representatives</title>
+    <link>https://www.directives.doe.gov/news/0541.1c-new</link>
+    <description>To establish procedures governing the selection, appointment, and termination of all components of Department of Energy (DOE), including National Nuclear Security Administration contracting officers (COs) by ensuring federal staff are developed appropriately, in accordance with the Office of Federal Procurement Policy (OFPP) memorandum on May 7, 2014, entitled “Revisions to the Federal Acquisition Certification in Contracting (FAC-C).” Supersedes DOE O 541.1B, dated 4-21-2004.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2017-01-19T16:09:54Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/directives-documents/500-series/0541-1-border-c">
+    <title>Appointment of Contracting Officers and Contracting Officer Representatives</title>
+    <link>https://www.directives.doe.gov/directives-documents/500-series/0541-1-border-c</link>
+    <description>To establish procedures governing the selection, appointment, and termination of all components of Department of Energy (DOE), including National Nuclear Security Administration contracting officers (COs) by ensuring federal staff are developed appropriately, in accordance with the Office of Federal Procurement Policy (OFPP) memorandum on May 7, 2014, entitled “Revisions to the Federal Acquisition Certification in Contracting (FAC-C).” Supersedes DOE O 541.1B, dated 4-21-2004.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Business and Support Services</dc:subject>
+    
+    
+      <dc:subject>Contracting</dc:subject>
+    
+    
+      <dc:subject>Procurement</dc:subject>
+    
+    <dc:date>2017-01-19T16:05:49Z</dc:date>
+    <dc:type>DOE.Directives.directive</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/0450.2-Chg1-MinChg-New">
+    <title>New - DOE O 450.2 Chg 1 (MinChg), Integrated Safety Management</title>
+    <link>https://www.directives.doe.gov/news/0450.2-Chg1-MinChg-New</link>
+    <description>To ensure that the Department of Energy (DOE), including the National Nuclear Security Administration (NNSA), systematically integrates safety into management and work practices at all levels, so that missions are accomplished efficiently while protecting the workers, the public, and the environment. Supersedes DOE O 450.2, dated 4-24-2011.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2017-01-19T15:58:02Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/directives-documents/400-series/0450-2-border-chg1-minchg">
+    <title>Integrated Safety Management</title>
+    <link>https://www.directives.doe.gov/directives-documents/400-series/0450-2-border-chg1-minchg</link>
+    <description>To ensure that the Department of Energy (DOE), including the National Nuclear Security Administration (NNSA), systematically integrates safety into management and work practices at all levels, so that missions are accomplished efficiently while protecting the workers, the public, and the environment. Supersedes DOE O 450.2, dated 4-24-2011.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Environment, Safety, and Health</dc:subject>
+    
+    
+      <dc:subject>Environmental Management</dc:subject>
+    
+    
+      <dc:subject>Environmental Protection</dc:subject>
+    
+    
+      <dc:subject>Integrated Safety Management</dc:subject>
+    
+    
+      <dc:subject>Safety</dc:subject>
+    
+    
+      <dc:subject>Worker Protection</dc:subject>
+    
+    <dc:date>2017-01-19T15:54:16Z</dc:date>
+    <dc:type>DOE.Directives.directive</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/news/0426.1a-new">
+    <title>New - DOE O 426.1A, Federal Technical Capability Program</title>
+    <link>https://www.directives.doe.gov/news/0426.1a-new</link>
+    <description>To define requirements and responsibilities for meeting the Department of Energy (DOE) commitment to recruiting, deploying, developing, and retaining a technically competent workforce that will accomplish DOE missions in a safe and efficient manner through the Federal Technical Capability Program (FTCP). Supersedes DOE O 426.1.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2017-01-19T14:25:00Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/directives-documents/400-series/0426-1-border-a">
+    <title>Federal Technical Capability Program</title>
+    <link>https://www.directives.doe.gov/directives-documents/400-series/0426-1-border-a</link>
+    <description>To define requirements and responsibilities for meeting the Department of Energy (DOE) commitment to recruiting, deploying, developing, and retaining a technically competent workforce that will accomplish DOE missions in a safe and efficient manner through the Federal Technical Capability Program (FTCP). Supersedes DOE O 426.1.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Work Processes</dc:subject>
+    
+    <dc:date>2017-01-19T14:22:00Z</dc:date>
+    <dc:type>DOE.Directives.directive</dc:type>
+  </item>
+
+
+  <item rdf:about="https://www.directives.doe.gov/directives-documents/400-series/0415.1-BOrder-chg2-minchg">
+    <title>Information Technology Project Management</title>
+    <link>https://www.directives.doe.gov/directives-documents/400-series/0415.1-BOrder-chg2-minchg</link>
+    <description>The Order provides program and project management direction for the acquisition and management of IT projects, investments, and initiatives. These changes implement The Federal Information Technology Acquisition Reform Act (FITARA) Supersedes DOE O 415.1 Admin Chg 1.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Minor Change, Information Technology, Project Management</dc:subject>
+    
+    <dc:date>2017-01-18T21:31:00Z</dc:date>
+    <dc:type>DOE.Directives.directive</dc:type>
+  </item>
+
+
+
+</rdf:RDF>
